@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">This repository is used to save my progress with Java and SpringBoot. I'm separating the topics with branchs to see my progress and learning with Udemy course "REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker
+<p align="left">This repository is used to save my progress with Java and SpringBoot. I'm separating the topics with branches to see my progress and learning with Udemy course "REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker
 " by Leandro Costa.</p>
 
 ###
